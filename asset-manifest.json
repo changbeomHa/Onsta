@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Onsta/static/css/main.fe996231.css",
+    "main.js": "/Onsta/static/js/main.03883503.js",
+    "static/js/787.8c03afa6.chunk.js": "/Onsta/static/js/787.8c03afa6.chunk.js",
+    "static/media/Onsta_logo.png": "/Onsta/static/media/Onsta_logo.15f06ee0ebaf485be94c.png",
+    "index.html": "/Onsta/index.html",
+    "main.fe996231.css.map": "/Onsta/static/css/main.fe996231.css.map",
+    "main.03883503.js.map": "/Onsta/static/js/main.03883503.js.map",
+    "787.8c03afa6.chunk.js.map": "/Onsta/static/js/787.8c03afa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe996231.css",
+    "static/js/main.03883503.js"
+  ]
+}
